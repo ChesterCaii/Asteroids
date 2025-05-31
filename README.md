@@ -19,7 +19,7 @@ You control a triangular spaceship that can rotate, move, and shoot bullets. Des
 
 ## 📸 Screenshots
 
-*(Add a screenshot here later if you'd like)*
+![Game Screenshot](assets/screenshot.png)
 
 ---
 
